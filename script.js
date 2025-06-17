@@ -211,13 +211,3 @@ if (temp > 30) {
 
 //  10. if (a && b) checks if both a and b are true.
 //! Answer: True
-
-
-
-
-
-
-
-
-
-
