@@ -68,7 +68,7 @@ if (isMember) {
 
 ## ✅ Step 3: Quiz Summary
 
-**Score Achieved: 9/10**
+**Score Achieved: 10/10**
 
 | # | Question Type | Your Answer | Correct | Notes |
 |--|---------------|-------------|---------|-------|
